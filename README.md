@@ -133,10 +133,6 @@ The application uses advanced state management techniques to prevent unnecessary
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [Reflex](https://reflex.dev) - The Python web framework used
