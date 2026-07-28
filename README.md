@@ -129,9 +129,8 @@ The application uses advanced state management techniques to prevent unnecessary
 
 1. Fork the repository
 2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+3. Make your changes and test it
+4. Submit a pull request
 
 ## 🙏 Acknowledgments
 
